@@ -1,18 +1,19 @@
 {
-  "name": "lab10",
+  "name": "lab7",
   "version": "1.0.0",
-  "description": "Lab 10 server for GLO-3102.",
-  "main": "app.js",
+  "description": "henlo",
+  "main": "index.js",
   "scripts": {
+    "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "marine malice",
   "license": "ISC",
   "dependencies": {
-    "body-parser": "^1.18.2",
-    "cors": "^2.8.4",
-    "express": "^4.15.4",
-    "mongoose": "^4.13.5",
-    "underscore": "^1.8.3"
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "mongoose": "^5.7.13",
+    "uuid": "^3.3.3"
   }
 }
