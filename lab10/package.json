@@ -1,13 +1,13 @@
 {
-  "name": "lab7",
+  "name": "lab7-live",
   "version": "1.0.0",
-  "description": "henlo",
+  "description": "",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "marine malice",
+  "author": "Med Mouine",
   "license": "ISC",
   "dependencies": {
     "body-parser": "^1.19.0",
